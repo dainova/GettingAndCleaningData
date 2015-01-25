@@ -1,11 +1,10 @@
 # Code Book
 
-## Subject and Activity
-
-These variables identify the unique subject/activity pair the variables relate to:
-
+## Subject
  - Subject: the integer subject ID.
- - Activity: the string activity name:
+
+## and Activity
+
   - Walking
   - Walking Upstairs
   - Walking Downstairs
@@ -13,7 +12,7 @@ These variables identify the unique subject/activity pair the variables relate t
   - Standing
   - Laying
 
-## Measurement Means
+## Measurements / Means
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
 
